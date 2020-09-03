@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T06:26:11.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="8KOh0LSJH_5o60DI9PF4" version="13.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-03T06:26:48.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="7tpZxRjMd-VdS4iDKk_Q" version="13.6.6" type="github" pages="6">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -245,11 +245,32 @@
         <mxCell id="gE7PCVooLxjmICd8i_2L-3" value="" style="group" vertex="1" connectable="0" parent="_b6Y4dmBiOVU1eUExEwR-1">
           <mxGeometry x="701" y="224" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gE7PCVooLxjmICd8i_2L-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/airline-flight-booking-mobile-app/15/detail-information-menu-data-128.png;fontSize=12;" vertex="1" parent="gE7PCVooLxjmICd8i_2L-3">
-          <mxGeometry x="-4" y="-3" width="16" height="16" as="geometry" />
+        <mxCell id="gE7PCVooLxjmICd8i_2L-6" value="" style="group" vertex="1" connectable="0" parent="gE7PCVooLxjmICd8i_2L-3">
+          <mxGeometry x="-4" y="-3" width="49" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gE7PCVooLxjmICd8i_2L-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_delete_48px-128.png;fontSize=12;" vertex="1" parent="gE7PCVooLxjmICd8i_2L-3">
-          <mxGeometry x="25" y="-3" width="20" height="20" as="geometry" />
+        <mxCell id="gE7PCVooLxjmICd8i_2L-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/airline-flight-booking-mobile-app/15/detail-information-menu-data-128.png;fontSize=12;" vertex="1" parent="gE7PCVooLxjmICd8i_2L-6">
+          <mxGeometry width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="gE7PCVooLxjmICd8i_2L-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_delete_48px-128.png;fontSize=12;" vertex="1" parent="gE7PCVooLxjmICd8i_2L-6">
+          <mxGeometry x="29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gE7PCVooLxjmICd8i_2L-7" value="" style="group" vertex="1" connectable="0" parent="_b6Y4dmBiOVU1eUExEwR-1">
+          <mxGeometry x="696" y="251" width="49" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gE7PCVooLxjmICd8i_2L-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/airline-flight-booking-mobile-app/15/detail-information-menu-data-128.png;fontSize=12;" vertex="1" parent="gE7PCVooLxjmICd8i_2L-7">
+          <mxGeometry width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="gE7PCVooLxjmICd8i_2L-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_delete_48px-128.png;fontSize=12;" vertex="1" parent="gE7PCVooLxjmICd8i_2L-7">
+          <mxGeometry x="29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gE7PCVooLxjmICd8i_2L-10" value="" style="group" vertex="1" connectable="0" parent="_b6Y4dmBiOVU1eUExEwR-1">
+          <mxGeometry x="696" y="283" width="49" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gE7PCVooLxjmICd8i_2L-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/airline-flight-booking-mobile-app/15/detail-information-menu-data-128.png;fontSize=12;" vertex="1" parent="gE7PCVooLxjmICd8i_2L-10">
+          <mxGeometry width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="gE7PCVooLxjmICd8i_2L-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_delete_48px-128.png;fontSize=12;" vertex="1" parent="gE7PCVooLxjmICd8i_2L-10">
+          <mxGeometry x="29" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
