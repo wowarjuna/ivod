@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T06:14:52.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="7xT1nnE2FE7vNPjiyEtS" version="13.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-03T06:16:44.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="O5Uo4maQhl3SuoKHGDtX" version="13.6.6" type="github" pages="5">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -159,6 +159,9 @@
         <mxCell id="tYEDQw4N72EArSJBWLbQ-0" value="User Details" style="swimlane;fontSize=12;align=center;" vertex="1" parent="uZPL7Y9QSaVusWNW0IE--1">
           <mxGeometry x="200" y="120" width="570" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="tYEDQw4N72EArSJBWLbQ-23" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=12;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="tYEDQw4N72EArSJBWLbQ-0">
+          <mxGeometry x="170" y="40" width="150" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="tYEDQw4N72EArSJBWLbQ-2" value="Tags" style="swimlane;fontSize=12;align=center;" vertex="1" parent="uZPL7Y9QSaVusWNW0IE--1">
           <mxGeometry x="200" y="290" width="570" height="170" as="geometry" />
         </mxCell>
@@ -179,6 +182,15 @@
         </mxCell>
         <mxCell id="tYEDQw4N72EArSJBWLbQ-8" value="Tag 6" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=12;fontColor=#666666;labelPosition=right;" vertex="1" parent="uZPL7Y9QSaVusWNW0IE--1">
           <mxGeometry x="620" y="335" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="tYEDQw4N72EArSJBWLbQ-19" value="Email" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="uZPL7Y9QSaVusWNW0IE--1">
+          <mxGeometry x="230" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tYEDQw4N72EArSJBWLbQ-22" value="Full Name" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="uZPL7Y9QSaVusWNW0IE--1">
+          <mxGeometry x="210" y="189" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tYEDQw4N72EArSJBWLbQ-24" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=12;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="uZPL7Y9QSaVusWNW0IE--1">
+          <mxGeometry x="370" y="190" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
