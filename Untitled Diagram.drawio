@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T05:56:54.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Y7JJJ1PaxGcicLB27_kn" version="13.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-03T05:58:21.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="rexVVIQCJu2J8wTgSy3D" version="13.6.6" type="github" pages="3">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,14 +39,17 @@
         <mxCell id="w7-TPkoKa8AdrtMxsmAd-5" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
           <mxGeometry x="410" y="235" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w7-TPkoKa8AdrtMxsmAd-6" value="Record/Stop" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
-          <mxGeometry x="240" y="390" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="w7-TPkoKa8AdrtMxsmAd-7" value="&amp;lt;&amp;lt; 30" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
           <mxGeometry x="480" y="390" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w7-TPkoKa8AdrtMxsmAd-8" value="30 &amp;gt;&amp;gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
           <mxGeometry x="560" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2STJ5uMNOq-adZ0BhVBa-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/media-record-128.png;fontSize=12;" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
+          <mxGeometry x="240" y="390" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="2STJ5uMNOq-adZ0BhVBa-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.play;fontSize=12;" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
+          <mxGeometry x="284" y="394" width="16" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
