@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T06:02:25.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="xzSSIqy30A5DUiXRzHjw" version="13.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-03T06:03:59.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="7v_cPu98wbXzDhogzqFX" version="13.6.6" type="github" pages="5">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,6 +18,29 @@
         </mxCell>
         <mxCell id="Qu4OrQJ69ZHAlaSqS7LJ-4" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="VwB0dqucG6JxnKo6KZAs-1">
           <mxGeometry x="380" y="250" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="g7RgLKrgGWOLC0ozRzyg" name="Reset Password">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="RZ-KLe8mqHR4mUkx9Z4i-0" />
+        <mxCell id="RZ-KLe8mqHR4mUkx9Z4i-1" parent="RZ-KLe8mqHR4mUkx9Z4i-0" />
+        <mxCell id="deI8cIghdnwRe7VbDTJU-0" value="Login&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="RZ-KLe8mqHR4mUkx9Z4i-1">
+          <mxGeometry x="140" y="63" width="570" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="deI8cIghdnwRe7VbDTJU-2" value="New Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RZ-KLe8mqHR4mUkx9Z4i-1">
+          <mxGeometry x="300" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deI8cIghdnwRe7VbDTJU-3" value="Confirm &lt;br&gt;Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RZ-KLe8mqHR4mUkx9Z4i-1">
+          <mxGeometry x="300" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deI8cIghdnwRe7VbDTJU-4" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="RZ-KLe8mqHR4mUkx9Z4i-1">
+          <mxGeometry x="380" y="250" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deI8cIghdnwRe7VbDTJU-5" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="RZ-KLe8mqHR4mUkx9Z4i-1">
+          <mxGeometry x="380" y="210" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
