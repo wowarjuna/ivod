@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T06:35:44.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="mzN-QJJaialLDEvXUBDh" version="13.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-03T06:37:08.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="zUxAtMsKvhsOLg5wAiOd" version="13.6.6" type="github" pages="6">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,6 +134,32 @@
         <mxCell id="iRTXrnIzyo8DyJ3poKf7-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/cologne/32x32/logout.png;fontSize=12;" vertex="1" parent="Jqtlgtn_Sr9Ml965YSNC-1">
           <mxGeometry x="720" y="78" width="32" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="o_Z9Et9qPsfZr61b8SbS-0" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DEE2E6;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;fontSize=14;align=right;" vertex="1" parent="Jqtlgtn_Sr9Ml965YSNC-1">
+          <mxGeometry x="250" y="310" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o_Z9Et9qPsfZr61b8SbS-1" value="Previous" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="o_Z9Et9qPsfZr61b8SbS-0">
+          <mxGeometry width="70" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_Z9Et9qPsfZr61b8SbS-2" value="1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="o_Z9Et9qPsfZr61b8SbS-0">
+          <mxGeometry width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_Z9Et9qPsfZr61b8SbS-3" value="2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="o_Z9Et9qPsfZr61b8SbS-0">
+          <mxGeometry width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_Z9Et9qPsfZr61b8SbS-4" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="o_Z9Et9qPsfZr61b8SbS-0">
+          <mxGeometry width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="130" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_Z9Et9qPsfZr61b8SbS-5" value="Next" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="o_Z9Et9qPsfZr61b8SbS-0">
+          <mxGeometry x="1" width="60" height="30" relative="1" as="geometry">
+            <mxPoint x="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -210,7 +236,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UOzsCkxYos2XYgKIGh3F" name="Admin/Reviewer - Videos">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_b6Y4dmBiOVU1eUExEwR-0" />
         <mxCell id="_b6Y4dmBiOVU1eUExEwR-1" parent="_b6Y4dmBiOVU1eUExEwR-0" />
@@ -283,6 +309,32 @@
         </mxCell>
         <mxCell id="gE7PCVooLxjmICd8i_2L-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_delete_48px-128.png;fontSize=12;" vertex="1" parent="gE7PCVooLxjmICd8i_2L-10">
           <mxGeometry x="29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CTXontc2Vyx37but76Ln-0" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DEE2E6;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;fontSize=14;align=right;" vertex="1" parent="_b6Y4dmBiOVU1eUExEwR-1">
+          <mxGeometry x="210" y="310" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTXontc2Vyx37but76Ln-1" value="Previous" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="CTXontc2Vyx37but76Ln-0">
+          <mxGeometry width="70" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTXontc2Vyx37but76Ln-2" value="1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="CTXontc2Vyx37but76Ln-0">
+          <mxGeometry width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTXontc2Vyx37but76Ln-3" value="2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="CTXontc2Vyx37but76Ln-0">
+          <mxGeometry width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTXontc2Vyx37but76Ln-4" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="CTXontc2Vyx37but76Ln-0">
+          <mxGeometry width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="130" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTXontc2Vyx37but76Ln-5" value="Next" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="CTXontc2Vyx37but76Ln-0">
+          <mxGeometry x="1" width="60" height="30" relative="1" as="geometry">
+            <mxPoint x="-60" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
