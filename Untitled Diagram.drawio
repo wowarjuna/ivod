@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T06:01:45.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="5wA_cQjRUpyVQf_XiAs_" version="13.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-03T06:02:10.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="j6_gxB3fzV8nRhwk6ncF" version="13.6.6" type="github" pages="4">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,6 +111,9 @@
       <root>
         <mxCell id="uZPL7Y9QSaVusWNW0IE--0" />
         <mxCell id="uZPL7Y9QSaVusWNW0IE--1" parent="uZPL7Y9QSaVusWNW0IE--0" />
+        <mxCell id="uZPL7Y9QSaVusWNW0IE--2" value="User Details&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="uZPL7Y9QSaVusWNW0IE--1">
+          <mxGeometry x="90" y="40" width="690" height="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
