@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T06:29:54.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="19df3P3Zd1rMfBdw7767" version="13.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-03T06:31:02.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="mHdmpiWdbl6f07q9Wj6N" version="13.6.6" type="github" pages="6">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="VwB0dqucG6JxnKo6KZAs-0" />
         <mxCell id="VwB0dqucG6JxnKo6KZAs-1" parent="VwB0dqucG6JxnKo6KZAs-0" />
@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g7RgLKrgGWOLC0ozRzyg" name="Reset Password">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RZ-KLe8mqHR4mUkx9Z4i-0" />
         <mxCell id="RZ-KLe8mqHR4mUkx9Z4i-1" parent="RZ-KLe8mqHR4mUkx9Z4i-0" />
@@ -48,11 +48,17 @@
         <mxCell id="deI8cIghdnwRe7VbDTJU-7" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="RZ-KLe8mqHR4mUkx9Z4i-1">
           <mxGeometry x="380" y="170" width="150" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="d_yLbRDP9r5GSdHLKMfU-0" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="RZ-KLe8mqHR4mUkx9Z4i-1">
+          <mxGeometry x="630" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d_yLbRDP9r5GSdHLKMfU-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/cologne/32x32/logout.png;fontSize=12;" vertex="1" parent="RZ-KLe8mqHR4mUkx9Z4i-1">
+          <mxGeometry x="670" y="98" width="32" height="32" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="9kghP2EEZvONq2nVlBwT" name="Certified User - Landing">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="w7-TPkoKa8AdrtMxsmAd-0" />
         <mxCell id="w7-TPkoKa8AdrtMxsmAd-1" parent="w7-TPkoKa8AdrtMxsmAd-0" />
