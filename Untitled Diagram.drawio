@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T08:46:25.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="YOMUAUhrzBe8UuKEfkfO" version="13.6.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-09-04T08:48:40.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="F1vrqRYPq1iq-Zf71o7w" version="13.6.6" type="github" pages="9">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U7QO5OhWm9dQC_eqGEMN" name="Admin/Reviewer - Users">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Jqtlgtn_Sr9Ml965YSNC-0" />
         <mxCell id="Jqtlgtn_Sr9Ml965YSNC-1" parent="Jqtlgtn_Sr9Ml965YSNC-0" />
@@ -345,7 +345,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6MQDrAysPCrJ3uBCHTeF" name="Admin/Reviewer - User Details">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="uZPL7Y9QSaVusWNW0IE--0" />
         <mxCell id="uZPL7Y9QSaVusWNW0IE--1" parent="uZPL7Y9QSaVusWNW0IE--0" />
@@ -420,7 +420,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UOzsCkxYos2XYgKIGh3F" name="Admin/Reviewer - Videos">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_b6Y4dmBiOVU1eUExEwR-0" />
         <mxCell id="_b6Y4dmBiOVU1eUExEwR-1" parent="_b6Y4dmBiOVU1eUExEwR-0" />
@@ -446,7 +446,7 @@
             <mxPoint y="93" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rLCCT3DVY9T7elci9s30-6" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th align=&quot;left&quot;&gt;Video Name&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Tags&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Video Info&lt;/th&gt;&lt;td&gt;Actions&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Video 01&lt;/td&gt;&lt;td&gt;Tag 1&lt;/td&gt;&lt;td&gt;Length 2 min&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Video 02&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tag 1, Tag 4&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Length 1 min&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Video 03&lt;br&gt;&lt;/td&gt;&lt;td&gt;Tag 3&lt;/td&gt;&lt;td&gt;Length 2 min&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Video 04&lt;/td&gt;&lt;td&gt;Tag 5&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Length 2 min&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;fontSize=12;align=right;" parent="_b6Y4dmBiOVU1eUExEwR-1" vertex="1">
+        <mxCell id="rLCCT3DVY9T7elci9s30-6" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th align=&quot;left&quot;&gt;Video Name&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Tags&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Video Info&lt;/th&gt;&lt;td&gt;Creator&lt;/td&gt;&lt;td&gt;Actions&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Video 01&lt;/td&gt;&lt;td&gt;Tag 1&lt;/td&gt;&lt;td&gt;Length 2 min&lt;/td&gt;&lt;td&gt;User 1&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Video 02&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Tag 1, Tag 4&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Length 1 min&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;User 1&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Video 03&lt;br&gt;&lt;/td&gt;&lt;td&gt;Tag 3&lt;/td&gt;&lt;td&gt;Length 2 min&lt;br&gt;&lt;/td&gt;&lt;td&gt;User 2&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Video 04&lt;/td&gt;&lt;td&gt;Tag 5&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Length 2 min&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;User 3&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;fontSize=12;align=right;" parent="_b6Y4dmBiOVU1eUExEwR-1" vertex="1">
           <mxGeometry x="210" y="150" width="550" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rLCCT3DVY9T7elci9s30-7" value="Pending" style="shape=ellipse;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=12;fontColor=#666666;labelPosition=right;shadow=0;" parent="_b6Y4dmBiOVU1eUExEwR-1" vertex="1">
