@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T04:36:29.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="LNrvaB2habgHa1dZyzzG" version="13.6.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-04T04:57:03.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="S5lY5TusC8Et7nJIrJvM" version="13.6.6" type="github" pages="8">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,6 +138,14 @@
         <mxCell id="ma0DMsXx9W8Xvgbk_nZM-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_delete_48px-128.png;fontSize=12;" vertex="1" parent="ma0DMsXx9W8Xvgbk_nZM-13">
           <mxGeometry x="24" width="20" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XXnAU6-_XL9Ff4A4Z0LY" name="Super Admin - User Details">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="iC8q4HbCIB1y7xvaYQDO-0" />
+        <mxCell id="iC8q4HbCIB1y7xvaYQDO-1" parent="iC8q4HbCIB1y7xvaYQDO-0" />
       </root>
     </mxGraphModel>
   </diagram>
