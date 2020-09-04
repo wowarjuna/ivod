@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T05:45:12.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="xX4Opf_aJxSetdOovr5Q" version="13.6.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-09-04T05:48:12.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="GjBYIJ_HwNi-V8xONiUk" version="13.6.6" type="github" pages="9">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -224,13 +224,16 @@
           <mxGeometry x="284" y="394" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="2STJ5uMNOq-adZ0BhVBa-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontSize=12;" parent="w7-TPkoKa8AdrtMxsmAd-1" vertex="1">
-          <mxGeometry x="590" y="394" width="30" height="16.8" as="geometry" />
+          <mxGeometry x="430" y="390" width="30" height="16.8" as="geometry" />
         </mxCell>
         <mxCell id="F2f1IWXwHl6dJMEsT3s0-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/cologne/32x32/logout.png;fontSize=12;" parent="w7-TPkoKa8AdrtMxsmAd-1" vertex="1">
           <mxGeometry x="670" y="98" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="L5G0A26DJi-BWIg2enye-0" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.videoPlayer;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;textColor=#666666;fillColor2=#008cff;barHeight=30;barPos=20;fontSize=12;" parent="w7-TPkoKa8AdrtMxsmAd-1" vertex="1">
           <mxGeometry x="240" y="170" width="390" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fwHeUYuOfXX3CByuDpNa-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/feather-2/24/upload-128.png" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
+          <mxGeometry x="606" y="380" width="24" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
