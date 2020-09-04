@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T06:26:29.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="ucqGVIQ2VGj7bHZJQy_4" version="13.6.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-09-04T06:27:56.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="MM_OucOwXnfrpez9AjBt" version="13.6.6" type="github" pages="9">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -154,11 +154,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XXnAU6-_XL9Ff4A4Z0LY" name="Super Admin - User Details">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="iC8q4HbCIB1y7xvaYQDO-0" />
         <mxCell id="iC8q4HbCIB1y7xvaYQDO-1" parent="iC8q4HbCIB1y7xvaYQDO-0" />
-        <mxCell id="hpF7gpUKku8ww9wPP5l7-0" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="iC8q4HbCIB1y7xvaYQDO-1">
+        <mxCell id="hpF7gpUKku8ww9wPP5l7-0" value="User Details" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="iC8q4HbCIB1y7xvaYQDO-1">
           <mxGeometry x="120" y="40" width="640" height="420" as="geometry" />
         </mxCell>
         <mxCell id="hpF7gpUKku8ww9wPP5l7-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;" vertex="1" parent="iC8q4HbCIB1y7xvaYQDO-1">
