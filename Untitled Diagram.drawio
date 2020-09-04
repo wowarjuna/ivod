@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T07:21:25.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="5yxt0yv8EpDENcS4cSad" version="13.6.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-09-04T07:22:24.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="sqUYWlxRVeZojGbkl1WM" version="13.6.6" type="github" pages="9">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -570,7 +570,7 @@
           <mxGeometry x="10" y="5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZuEvDp0_S5NAacylGNal-0" value="Tags" style="swimlane;fontSize=12;align=center;" vertex="1" parent="Jd2ZoxR8TJLIaGUTX6LI-1">
-          <mxGeometry x="200" y="300" width="250" height="130" as="geometry" />
+          <mxGeometry x="200" y="300" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZuEvDp0_S5NAacylGNal-1" value="Tag 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=12;fontColor=#666666;labelPosition=right;aspect=fixed;" vertex="1" parent="ZuEvDp0_S5NAacylGNal-0">
           <mxGeometry x="20" y="35" width="15" height="15" as="geometry" />
@@ -599,8 +599,8 @@
         <mxCell id="XrKtyKffxIErGFHecxyo-0" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.videoPlayer;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;textColor=#666666;fillColor2=#008cff;barHeight=30;barPos=20;fontSize=12;" vertex="1" parent="Jd2ZoxR8TJLIaGUTX6LI-1">
           <mxGeometry x="200" y="130" width="570" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gyc-Se9leP5BJoqSUCW4-0" value="Tags" style="swimlane;fontSize=12;align=center;" vertex="1" parent="Jd2ZoxR8TJLIaGUTX6LI-1">
-          <mxGeometry x="470" y="300" width="290" height="130" as="geometry" />
+        <mxCell id="gyc-Se9leP5BJoqSUCW4-0" value="LMS/ERP/CMS Field Mapping" style="swimlane;fontSize=12;align=center;" vertex="1" parent="Jd2ZoxR8TJLIaGUTX6LI-1">
+          <mxGeometry x="480" y="300" width="290" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gyc-Se9leP5BJoqSUCW4-2" value="LMS/ERP/CMS" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10" vertex="1" parent="gyc-Se9leP5BJoqSUCW4-0">
           <mxGeometry x="10" y="30.5" width="120" height="24" as="geometry" />
