@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T10:15:40.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="7BQHeOdi-RxrsTNHXiLL" version="13.6.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-09-04T10:17:44.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="HaHClt6HPqjYzxivOtmi" version="13.6.6" type="github" pages="9">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -222,7 +222,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9kghP2EEZvONq2nVlBwT" name="Certified User - Landing">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="w7-TPkoKa8AdrtMxsmAd-0" />
         <mxCell id="w7-TPkoKa8AdrtMxsmAd-1" parent="w7-TPkoKa8AdrtMxsmAd-0" />
@@ -257,7 +257,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U7QO5OhWm9dQC_eqGEMN" name="Admin/Reviewer - Users">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Jqtlgtn_Sr9Ml965YSNC-0" />
         <mxCell id="Jqtlgtn_Sr9Ml965YSNC-1" parent="Jqtlgtn_Sr9Ml965YSNC-0" />
@@ -351,7 +351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6MQDrAysPCrJ3uBCHTeF" name="Admin/Reviewer - User Details">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="uZPL7Y9QSaVusWNW0IE--0" />
         <mxCell id="uZPL7Y9QSaVusWNW0IE--1" parent="uZPL7Y9QSaVusWNW0IE--0" />
@@ -421,6 +421,9 @@
         </mxCell>
         <mxCell id="4T_y5UK03RiKY_cuNbN9-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/picol-vector/32/cancel-128.png;fontSize=12;align=right;" parent="uZPL7Y9QSaVusWNW0IE--1" vertex="1">
           <mxGeometry x="748" y="440" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="8OuLu_Ps4nodk7r3D4nx-0" value="Role" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="uZPL7Y9QSaVusWNW0IE--1">
+          <mxGeometry x="210" y="220" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
