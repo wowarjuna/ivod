@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T07:51:06.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Sg4pNnl_hrsdFWAClDiH" version="13.6.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-09-07T07:51:20.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="IwJwkytOyQg7vTM7Ab_Y" version="13.6.6" type="github" pages="12">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -924,7 +924,7 @@
       <root>
         <mxCell id="GsTAt29x7XCwz3-ZrRo0-0" />
         <mxCell id="GsTAt29x7XCwz3-ZrRo0-1" parent="GsTAt29x7XCwz3-ZrRo0-0" />
-        <mxCell id="BY2lnV7B_pBMVQxETyMm-0" value="Training Videos" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="GsTAt29x7XCwz3-ZrRo0-1">
+        <mxCell id="BY2lnV7B_pBMVQxETyMm-0" value="Training Video 01" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="GsTAt29x7XCwz3-ZrRo0-1">
           <mxGeometry x="120" y="40" width="640" height="420" as="geometry" />
         </mxCell>
         <mxCell id="BY2lnV7B_pBMVQxETyMm-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="GsTAt29x7XCwz3-ZrRo0-1">
