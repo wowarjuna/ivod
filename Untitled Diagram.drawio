@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T07:50:14.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="O6r6RJ-Xa-XcMHDwwLQn" version="13.6.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-09-07T07:51:06.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Sg4pNnl_hrsdFWAClDiH" version="13.6.6" type="github" pages="12">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kwhyKb3g53jn35ztlEwJ" name="Super Admin - Users">
-    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8c494ihLTuJRXRsOp_Ij-0" />
         <mxCell id="8c494ihLTuJRXRsOp_Ij-1" parent="8c494ihLTuJRXRsOp_Ij-0" />
@@ -915,6 +915,37 @@
         </mxCell>
         <mxCell id="pYe4vctqHQbFIN8afgpu-31" value="Training Video 04&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="DhjGnUhhbWjqfMLrzf_f-1">
           <mxGeometry x="420" y="370" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Obcf1vTJpPuxs-cM15h_" name="Trainee - Video">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="GsTAt29x7XCwz3-ZrRo0-0" />
+        <mxCell id="GsTAt29x7XCwz3-ZrRo0-1" parent="GsTAt29x7XCwz3-ZrRo0-0" />
+        <mxCell id="BY2lnV7B_pBMVQxETyMm-0" value="Training Videos" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="GsTAt29x7XCwz3-ZrRo0-1">
+          <mxGeometry x="120" y="40" width="640" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="BY2lnV7B_pBMVQxETyMm-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="GsTAt29x7XCwz3-ZrRo0-1">
+          <mxGeometry x="680" y="78" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BY2lnV7B_pBMVQxETyMm-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/cologne/32x32/logout.png;fontSize=12;" vertex="1" parent="GsTAt29x7XCwz3-ZrRo0-1">
+          <mxGeometry x="720" y="78" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="BY2lnV7B_pBMVQxETyMm-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;" vertex="1" parent="GsTAt29x7XCwz3-ZrRo0-1">
+          <mxGeometry x="120" y="70" width="100" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="BY2lnV7B_pBMVQxETyMm-4" value="Videos" style="strokeColor=#6c8ebf;fillColor=#dae8fc;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=12;fontStyle=1;resizeWidth=1;" vertex="1" parent="BY2lnV7B_pBMVQxETyMm-3">
+          <mxGeometry width="100" height="26" relative="1" as="geometry">
+            <mxPoint y="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BY2lnV7B_pBMVQxETyMm-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="BY2lnV7B_pBMVQxETyMm-3">
+          <mxGeometry x="10" y="8" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="weF_xNTkgVX-8TQSF0Ia-0" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.videoPlayer;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;textColor=#666666;fillColor2=#008cff;barHeight=30;barPos=20;fontSize=12;" vertex="1" parent="GsTAt29x7XCwz3-ZrRo0-1">
+          <mxGeometry x="240" y="130" width="510" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
