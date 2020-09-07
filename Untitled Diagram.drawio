@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T06:30:44.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="lKu2dHMJQieCr2AX1j4F" version="13.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-09-07T06:31:29.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="SH6mncS52YTnUI-xSFl8" version="13.6.6" type="github" pages="10">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -696,6 +696,9 @@
         </mxCell>
         <mxCell id="Og5lvOLLkg6xiuHsOdhx-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" parent="Og5lvOLLkg6xiuHsOdhx-0" vertex="1">
           <mxGeometry x="10" y="5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RUi_sNRWKBczBJ4v8kvx-0" value="Settings" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=12;fontStyle=1;resizeWidth=1;" vertex="1" parent="_b6Y4dmBiOVU1eUExEwR-1">
+          <mxGeometry x="90" y="190" width="100" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
