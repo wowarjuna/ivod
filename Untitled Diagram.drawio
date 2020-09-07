@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T06:41:55.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="IAeTDAES0hS16or8zGVx" version="13.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-09-07T06:46:05.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="OTqvl00TILoYfS9d3I3H" version="13.6.6" type="github" pages="10">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -590,7 +590,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UOzsCkxYos2XYgKIGh3F" name="Admin/Reviewer - Videos">
-    <mxGraphModel dx="1240" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_b6Y4dmBiOVU1eUExEwR-0" />
         <mxCell id="_b6Y4dmBiOVU1eUExEwR-1" parent="_b6Y4dmBiOVU1eUExEwR-0" />
@@ -842,6 +842,12 @@
         </mxCell>
         <mxCell id="pwLkwz4RUOiSD7DVZ-qi-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=12;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="Jd2ZoxR8TJLIaGUTX6LI-1">
           <mxGeometry x="309" y="333.5" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-uaMDa9qIFHn8agf8wKI-0" value="Original Video" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#666666;" vertex="1" parent="Jd2ZoxR8TJLIaGUTX6LI-1">
+          <mxGeometry x="289" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-uaMDa9qIFHn8agf8wKI-1" value="Edited/Annotated&amp;nbsp; Video" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#666666;" vertex="1" parent="Jd2ZoxR8TJLIaGUTX6LI-1">
+          <mxGeometry x="605" y="190" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
