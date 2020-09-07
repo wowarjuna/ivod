@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T06:35:03.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="9PFSEDaKfhwrsw2Wdh-Z" version="13.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-09-07T06:35:31.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="9M2miXO7W-sqNcLbhRoC" version="13.6.6" type="github" pages="10">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -573,6 +573,9 @@
         </mxCell>
         <mxCell id="TPOEPZiYHLWWKplKq3qi-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_delete_48px-128.png;fontSize=12;" vertex="1" parent="4vVc_8Rw_B8NlgVDXwuH-1">
           <mxGeometry x="680" y="377" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aS5w2EYWq2vXvIafms8L-0" value="Delete" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_delete_48px-128.png;fontSize=12;" vertex="1" parent="4vVc_8Rw_B8NlgVDXwuH-1">
+          <mxGeometry x="732" y="410" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
