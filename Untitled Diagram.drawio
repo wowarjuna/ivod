@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T06:26:20.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="d6MQycVifRSuo9MhBQsq" version="13.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-09-07T06:26:50.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="jVG8srb4nc9eQx2qtsUw" version="13.6.6" type="github" pages="10">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -268,10 +268,10 @@
         <mxCell id="NyMB_uKIESZRCa-XRzyo-0" value="Video" style="swimlane;fontSize=12;align=center;" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
           <mxGeometry x="240" y="120" width="390" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NyMB_uKIESZRCa-XRzyo-2" value="Category" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
+        <mxCell id="NyMB_uKIESZRCa-XRzyo-2" value="Sections" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
           <mxGeometry x="250" y="148" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hqPCkNyccr3p4JOXfMtI-0" value="Trainee" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
+        <mxCell id="hqPCkNyccr3p4JOXfMtI-0" value="Section 01" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10" vertex="1" parent="w7-TPkoKa8AdrtMxsmAd-1">
           <mxGeometry x="380" y="148" width="150" height="24" as="geometry" />
         </mxCell>
         <mxCell id="hqPCkNyccr3p4JOXfMtI-1" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1" vertex="1" parent="hqPCkNyccr3p4JOXfMtI-0">
