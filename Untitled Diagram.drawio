@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T09:08:52.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="wwZ_6akoa7ItutOeWvh6" version="13.6.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-09-07T09:13:10.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="L3PvOUTSMu9VO9nE8AWh" version="13.6.6" type="github" pages="12">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -295,12 +295,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U7QO5OhWm9dQC_eqGEMN" name="Admin/Reviewer - Users">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="413" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Jqtlgtn_Sr9Ml965YSNC-0" />
         <mxCell id="Jqtlgtn_Sr9Ml965YSNC-1" parent="Jqtlgtn_Sr9Ml965YSNC-0" />
         <mxCell id="rDCqnf7OUyIxYzvHR-U5-0" value="Users&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" parent="Jqtlgtn_Sr9Ml965YSNC-1" vertex="1">
-          <mxGeometry x="120" y="40" width="700" height="420" as="geometry" />
+          <mxGeometry x="120" y="40" width="740" height="420" as="geometry" />
         </mxCell>
         <mxCell id="rDCqnf7OUyIxYzvHR-U5-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;" parent="Jqtlgtn_Sr9Ml965YSNC-1" vertex="1">
           <mxGeometry x="120" y="70" width="100" height="390" as="geometry" />
@@ -332,20 +332,20 @@
         <mxCell id="aRHhYG0wZ3DEpg7395DG-0" value="Videos" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=12;fontStyle=1;resizeWidth=1;" parent="ST1byaz8k2no8yDfe_qR-0" vertex="1">
           <mxGeometry y="100" width="100" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rDCqnf7OUyIxYzvHR-U5-19" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th align=&quot;left&quot;&gt;Username&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Full Name&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Email&lt;/th&gt;&lt;td&gt;Actions&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;bob&lt;/td&gt;&lt;td&gt;Value 2&lt;/td&gt;&lt;td&gt;bob@test.com&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;lily&lt;/td&gt;&lt;td&gt;Value 5&lt;/td&gt;&lt;td&gt;lily@test.com&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;brendan&lt;/td&gt;&lt;td&gt;Value 8&lt;/td&gt;&lt;td&gt;brendan@test.com&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;fontSize=12;" parent="Jqtlgtn_Sr9Ml965YSNC-1" vertex="1">
-          <mxGeometry x="250" y="140" width="540" height="170" as="geometry" />
+        <mxCell id="rDCqnf7OUyIxYzvHR-U5-19" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th align=&quot;left&quot;&gt;Role&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Full Name&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Email&lt;/th&gt;&lt;td&gt;Sections&lt;/td&gt;&lt;td&gt;Actions&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Certified User&lt;/td&gt;&lt;td&gt;Value 2&lt;/td&gt;&lt;td&gt;bob@test.com&lt;/td&gt;&lt;td&gt;Section 1, &lt;br&gt;Section 2&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Trainee&lt;/td&gt;&lt;td&gt;Value 5&lt;/td&gt;&lt;td&gt;lily@test.com&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Section 1&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;Reviewer&lt;/td&gt;&lt;td&gt;Value 8&lt;/td&gt;&lt;td&gt;brendan@test.com&lt;/td&gt;&lt;td&gt;Section 3&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;fontSize=12;" parent="Jqtlgtn_Sr9Ml965YSNC-1" vertex="1">
+          <mxGeometry x="250" y="140" width="580" height="170" as="geometry" />
         </mxCell>
         <mxCell id="rDCqnf7OUyIxYzvHR-U5-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/airline-flight-booking-mobile-app/15/detail-information-menu-data-128.png;fontSize=12;" parent="Jqtlgtn_Sr9Ml965YSNC-1" vertex="1">
-          <mxGeometry x="712" y="194" width="16" height="16" as="geometry" />
+          <mxGeometry x="757" y="194" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="rDCqnf7OUyIxYzvHR-U5-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_delete_48px-128.png;fontSize=12;" parent="Jqtlgtn_Sr9Ml965YSNC-1" vertex="1">
-          <mxGeometry x="761" y="192" width="20" height="20" as="geometry" />
+          <mxGeometry x="806" y="192" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iRTXrnIzyo8DyJ3poKf7-0" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" parent="Jqtlgtn_Sr9Ml965YSNC-1" vertex="1">
-          <mxGeometry x="680" y="78" width="30" height="30" as="geometry" />
+          <mxGeometry x="773" y="78" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iRTXrnIzyo8DyJ3poKf7-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/cologne/32x32/logout.png;fontSize=12;" parent="Jqtlgtn_Sr9Ml965YSNC-1" vertex="1">
-          <mxGeometry x="720" y="78" width="32" height="32" as="geometry" />
+          <mxGeometry x="813" y="78" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="o_Z9Et9qPsfZr61b8SbS-0" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DEE2E6;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;fontSize=14;align=right;" parent="Jqtlgtn_Sr9Ml965YSNC-1" vertex="1">
           <mxGeometry x="250" y="310" width="220" height="30" as="geometry" />
@@ -386,25 +386,25 @@
           <mxGeometry x="660" y="330" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="lrZcNKLxUV3xE2lvTZTQ-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ecqlipse2/POWER---RESTART.png" vertex="1" parent="Jqtlgtn_Sr9Ml965YSNC-1">
-          <mxGeometry x="735" y="191" width="24" height="24" as="geometry" />
+          <mxGeometry x="780" y="191" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="lrZcNKLxUV3xE2lvTZTQ-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/airline-flight-booking-mobile-app/15/detail-information-menu-data-128.png;fontSize=12;" vertex="1" parent="Jqtlgtn_Sr9Ml965YSNC-1">
-          <mxGeometry x="710" y="233" width="16" height="16" as="geometry" />
+          <mxGeometry x="757" y="233" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="lrZcNKLxUV3xE2lvTZTQ-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_delete_48px-128.png;fontSize=12;" vertex="1" parent="Jqtlgtn_Sr9Ml965YSNC-1">
-          <mxGeometry x="759" y="231" width="20" height="20" as="geometry" />
+          <mxGeometry x="806" y="231" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lrZcNKLxUV3xE2lvTZTQ-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ecqlipse2/POWER---RESTART.png" vertex="1" parent="Jqtlgtn_Sr9Ml965YSNC-1">
-          <mxGeometry x="733" y="230" width="24" height="24" as="geometry" />
+          <mxGeometry x="780" y="230" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="lrZcNKLxUV3xE2lvTZTQ-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/airline-flight-booking-mobile-app/15/detail-information-menu-data-128.png;fontSize=12;" vertex="1" parent="Jqtlgtn_Sr9Ml965YSNC-1">
-          <mxGeometry x="710" y="283" width="16" height="16" as="geometry" />
+          <mxGeometry x="757.5" y="283" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="lrZcNKLxUV3xE2lvTZTQ-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_delete_48px-128.png;fontSize=12;" vertex="1" parent="Jqtlgtn_Sr9Ml965YSNC-1">
-          <mxGeometry x="759" y="281" width="20" height="20" as="geometry" />
+          <mxGeometry x="806.5" y="281" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lrZcNKLxUV3xE2lvTZTQ-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ecqlipse2/POWER---RESTART.png" vertex="1" parent="Jqtlgtn_Sr9Ml965YSNC-1">
-          <mxGeometry x="733" y="280" width="24" height="24" as="geometry" />
+          <mxGeometry x="780.5" y="280" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="5qIIpX3yKJ-emcyZRX1w-0" value="Add&lt;br&gt;User" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/glyphpack/72/user-add-128.png" vertex="1" parent="Jqtlgtn_Sr9Ml965YSNC-1">
           <mxGeometry x="540" y="328" width="24" height="24" as="geometry" />
@@ -413,7 +413,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6MQDrAysPCrJ3uBCHTeF" name="Admin/Reviewer - User Details">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="uZPL7Y9QSaVusWNW0IE--0" />
         <mxCell id="uZPL7Y9QSaVusWNW0IE--1" parent="uZPL7Y9QSaVusWNW0IE--0" />
