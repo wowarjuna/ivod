@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T07:51:20.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="IwJwkytOyQg7vTM7Ab_Y" version="13.6.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-09-07T09:05:01.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="mSPK6RAtOZewB0x4P5CP" version="13.6.6" type="github" pages="12">
   <diagram id="_BJTnlV5F5JUWR95shi6" name="Login">
     <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -527,7 +527,7 @@
         <mxCell id="HdnKLrAhpbUOjtu1AVVs-0" value="New Section" style="swimlane;fontSize=12;align=center;startSize=23;" vertex="1" parent="4vVc_8Rw_B8NlgVDXwuH-1">
           <mxGeometry x="200" y="120" width="570" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HdnKLrAhpbUOjtu1AVVs-2" value="New Section" style="swimlane;fontSize=12;align=center;startSize=23;" vertex="1" parent="4vVc_8Rw_B8NlgVDXwuH-1">
+        <mxCell id="HdnKLrAhpbUOjtu1AVVs-2" value="Sections" style="swimlane;fontSize=12;align=center;startSize=23;" vertex="1" parent="4vVc_8Rw_B8NlgVDXwuH-1">
           <mxGeometry x="200" y="250" width="570" height="200" as="geometry" />
         </mxCell>
         <mxCell id="o2a5-gFWamQ0nuErBUVb-0" value="Section Name" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="4vVc_8Rw_B8NlgVDXwuH-1">
@@ -853,7 +853,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0mEVePFHBuFTJyHlatDG" name="Trainee-List Videos">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="DhjGnUhhbWjqfMLrzf_f-0" />
         <mxCell id="DhjGnUhhbWjqfMLrzf_f-1" parent="DhjGnUhhbWjqfMLrzf_f-0" />
